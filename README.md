@@ -1,5 +1,8 @@
 # Micromouse-Simulator
 
+Environment: Qt Creator
+Language: C++ 
+
 Project Description:
 The program is a Micromouse robot competition simulator. The robot's task is to find the shortest path from one point to another in a maze. The robot is based on three distance sensors placed on the front of the robot, on the left and on the right. The robot knows its own orientation, position and has a certain speed of movement. The Flood Fill algorithm was used to solve the maze. The program can generate a random maze of 16x16 dimensions. The Recursive Backtracking algorithm was used to generate the maze. The program includes a UI that allows intuitive control of the robot's passage.
 
